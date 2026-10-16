@@ -4,10 +4,10 @@
     <selectionStates>
       <SelectionState runConfigName="NfcWallet.app">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2026-10-14T19:28:21.406937500Z">
+        <DropdownSelection timestamp="2026-10-14T21:04:20.220116700Z">
           <Target type="DEFAULT_BOOT">
             <handle>
-              <DeviceId pluginId="PhysicalDevice" identifier="serial=R5CY645KGKT" />
+              <DeviceId pluginId="PhysicalDevice" identifier="serial=57071FDCR0096J" />
             </handle>
           </Target>
         </DropdownSelection>
